@@ -1,0 +1,6 @@
+.idea/
+bash.exe*
+e2e/
+node_modules/
+npm*
+protractor*
