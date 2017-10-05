@@ -16,6 +16,6 @@ export class DashboardComponent {
 
     ngOnInit(): void {
         this.heroService.getHeroes()
-            .then(heroes => this.heroes = heroes.splice(0, 5));
+            .then(heroes => this.heroes = heroes.splice(1, 5));
     }
 }

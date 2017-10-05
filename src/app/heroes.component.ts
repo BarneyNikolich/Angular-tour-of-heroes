@@ -23,6 +23,7 @@ import { HeroService } from './hero1-service';
   }
   .heroes {
     margin: 0 0 2em 0;
+    color: blue;  
     list-style-type: none;
     padding: 0;
     width: 15em;
